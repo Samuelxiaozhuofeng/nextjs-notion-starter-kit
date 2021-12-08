@@ -1,6 +1,6 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: 'f196812989f746988e314769a34b6593',
+  rootNotionPageId: 'Testing-ac6de264f86e4c2da036b17408842224',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -8,8 +8,8 @@ module.exports = {
 
   // basic site info (required)
   name: 'Samuel's Thinking',
-  domain: 'transitivebullsh.it',
-  author: 'Travis Fischer',
+  domain: 'https://www.notion.so/Testing-ac6de264f86e4c2da036b17408842224',
+  author: 'Samuel',
 
   // open graph metadata (optional)
   description: 'Example site description',
